@@ -1,0 +1,1 @@
+pandas>=2.0.0\nnbformat>=5.0.0\n
